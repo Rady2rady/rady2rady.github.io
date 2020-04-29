@@ -1,0 +1,189 @@
+.container1 {
+  display: flex;  
+  position: relative;
+  text-align: center;
+}
+
+.texthead {
+  font-family: 'Abril Fatface', cursive;
+  position: absolute;
+  font-size: 30px;
+  top: 60%;
+  left: 30%;  
+}
+
+.texthead h4 {
+  text-align: left;
+}
+
+.secondclass {
+  flex-direction: row;
+  width: 650px;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: 40px 0 20px 0;
+}
+
+.beginning {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  font-size: 25px;   
+}
+
+.firstlist {
+  font-size: 25px;
+  width: 650px;
+  justify-content: center;
+  margin: auto;
+  padding: 20px;
+}
+  
+.quote {
+  display: flex;
+  font-family: 'Abril Fatface', cursive;
+  background-color: grey;
+  width: 680px;
+  height: 150px;
+  color: white;
+  font-size: 50px;
+  margin: auto;
+  padding: 0;
+  margin-left: 360px;
+}
+
+.quote::before {
+  font-family: 'Abril Fatface', cursive;
+  content: "“";
+  background-color: grey;
+  font-size: 50px;
+}
+
+.paragraph1 {
+  display: flex;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 25px;
+  //font-weight: bold;
+  width: 680px;
+  justify-content: left;
+  align-items: center;
+  margin: 0;
+  padding: 40px 0;
+  margin-left: 360px;
+  
+}
+
+.paragraph1 {
+  display: flex;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 25px;
+  width: 680px;
+  justify-content: left;
+  align-items: center;
+  margin: 0;
+  padding: 40px 0;
+  margin-left: 360px;
+  
+}
+
+.paragraph2 {
+  display: flex;
+  font-family: 'Abril Fatface', cursive;;
+  font-size: 25px;
+  font-weight: bold;
+  width: 680px;
+  justify-content: left;
+  align-items: center;
+  margin: 0;
+  padding: 40px 0;
+  margin-left: 360px;
+  
+}
+
+.subtitles {
+  display: flex;
+  font-family: 'Merriweather', serif;
+  font-weight: italic;
+  font-size: 15px;
+  width: 680px;
+  justify-content: left;
+  align-items: center;
+  margin: 0;
+  padding: 40px 0;
+  margin-left: 360px;
+  
+}
+.paragraph3 {
+  display: flex;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+  width: 680px;
+  justify-content: left;
+  align-items: center;
+  margin: 0;
+  padding: 15px 0 -5px 0;
+  margin-left: 360px;
+  margin-bottom: -10px;
+  
+}
+
+.paragraph4 {
+  display: flex;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  width: 680px;
+  justify-content: left;
+  align-items: center;
+  margin: 0;
+  padding: 0px 0;
+  margin-left: 360px;
+  
+}
+.paragraph5 {
+  display: flex;
+  font-family: 'Merriweather', serif;
+  font-size: 17px;
+  font-weight: bold;
+  font-weight: cursiva;
+  width: 680px;
+  justify-content: left;
+  align-items: center;
+  margin: 0;
+  padding: 15px 0 -5px 0;
+  margin-left: 360px;
+  margin-bottom: -10px;
+  
+}
+.list2 {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  width: 650px;
+  justify-content: auto;
+  margin: 0 350px;
+  padding: 20px 0;
+  
+}
+
+.paragraph5 {
+  display: flex;
+  font-family: 'Merriweather', serif;
+  font-size: 17px;
+  font-weight: bold;
+  font-weight: cursiva;
+  width: 680px;
+  justify-content: left;
+  align-items: center;
+  margin: 0;
+  padding: 15px 0 -5px 0;
+  margin-left: 360px;
+  margin-bottom: -10px;
+  
+}
+.line{
+    width: 680px;
+    height: 27px;
+    border-bottom: 4px solid black;
+    position: absolute;
+    }
